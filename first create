@@ -1,0 +1,5 @@
+include<stdio.h>
+int main(){
+printf("首次使用GitHub创建文件");
+return 0;
+}
