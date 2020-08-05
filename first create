@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 int main(){
 printf("首次使用GitHub创建文件");
 printf("use edit function firstly.");
